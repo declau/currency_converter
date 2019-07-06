@@ -1,6 +1,7 @@
-# conversor_moedas
+# Currency converter
 
-A new Flutter application.
+This is a currency conversion application developed with Flutter.
+This App uses an external API for real-time conversion from HG Brazil.
 
 ## Getting Started
 
